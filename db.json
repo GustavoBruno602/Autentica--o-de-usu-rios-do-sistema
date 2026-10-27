@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Roberto Almeida",
+      "email": "roberto@retinta.com",
+      "senha": "123456",
+      "perfil": "consumidor"
+    },
+    {
+      "id": "2",
+      "nome": "José Ramos",
+      "email": "jose@retinta.com",
+      "senha": "123456",
+      "perfil": "pintor"
+    },
+    {
+      "id": "3",
+      "nome": "Bianca Goudim",
+      "email": "admin@retinta.com",
+      "senha": "123456",
+      "perfil": "admin"
+    }
+  ]
+}
